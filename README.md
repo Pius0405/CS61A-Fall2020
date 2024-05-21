@@ -20,8 +20,8 @@
 [lab09](lab/lab09/lab09.py) <br>
 [lab10](lab/lab10/lab10.scm) <br>
 [lab11](lab/lab11) <br>
-[lab12](lab/lab12.sql) <br>
-[lab13](lab/lab13.sql) <br>
+[lab12](lab/lab12/lab12.sql) <br>
+[lab13](lab/lab13/lab13.sql) <br>
 [lab14](lab/lab14) 
 
 
