@@ -9,17 +9,17 @@
 [disc14](disc/disc14)
 
 ## Lab
-[lab00](lab/lab00.py) <br>
-[lab01](lab/lab01.py) <br>
-[lab02](lab/lab02.py) <br>
-[lab03](lab/lab03.py) <br>
-[lab04](lab/lab04.py) <br>
-[lab05](lab/lab05.py) <br>
-[lab06](lab/lab06.py) <br>
-[lab07](lab/lab07.py) <br>
-[lab08](lab/lab08.py) <br>
-[lab09](lab/lab09.py) <br>
-[lab10](lab/lab10.scm) <br>
+[lab00](lab/lab00/lab00.py) <br>
+[lab01](lab/lab01/lab01.py) <br>
+[lab02](lab/lab02/lab02.py) <br>
+[lab03](lab/lab03/lab03.py) <br>
+[lab04](lab/lab04/lab04.py) <br>
+[lab05](lab/lab05/lab05.py) <br>
+[lab06](lab/lab06/lab06.py) <br>
+[lab07](lab/lab07/lab07.py) <br>
+[lab08](lab/lab08/lab08.py) <br>
+[lab09](lab/lab09/lab09.py) <br>
+[lab10](lab/lab10/lab10.scm) <br>
 [lab11](lab/lab11) <br>
 [lab12](lab/lab12.sql) <br>
 [lab13](lab/lab13.sql) <br>
