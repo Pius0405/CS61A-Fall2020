@@ -12,7 +12,6 @@
 [lab00](lab/lab00/lab00.py) <br>
 [lab01](lab/lab01/lab01.py) <br>
 [lab02](lab/lab02/lab02.py) <br>
-[lab03](lab/lab03/lab03.py) <br>
 [lab04](lab/lab04/lab04.py) <br>
 [lab05](lab/lab05/lab05.py) <br>
 [lab06](lab/lab06/lab06.py) <br>
