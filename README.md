@@ -36,7 +36,7 @@
 [hw03](hw/hw03/hw03.py) <br>
 [hw04](hw/hw04/hw04.py) <br>
 [hw05](hw/hw05/hw05.py) <br>
-[hw06](hw/hw06/hw06.py) <br>
-[hw07](hw/hw07/hw07.py) <br>
-[hw08](hw/hw08/hw08.py) <br>
-[hw09](hw/hw09/hw09.py) <br>
+[hw06](hw/hw06/hw06.scm) <br>
+[hw07](hw/hw07/hw07.scm) <br>
+[hw08](hw/hw08/hw08.scm) <br>
+[hw09](hw/hw09/hw09.sql) <br>
