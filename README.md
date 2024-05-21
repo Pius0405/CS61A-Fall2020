@@ -16,7 +16,7 @@
 [lab04](lab/lab04/lab04.py) <br>
 [lab05](lab/lab05/lab05.py) <br>
 [lab06](lab/lab06/lab06.py) <br>
-[lab07](lab/lab07/lab07.py) <br>
+[lab07](lab/lab07) <br>
 [lab08](lab/lab08/lab08.py) <br>
 [lab09](lab/lab09/lab09.py) <br>
 [lab10](lab/lab10/lab10.scm) <br>
